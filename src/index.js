@@ -6,5 +6,5 @@ import './style.css';
 
 ReactDOM.render(
   <App />,
-  document.getElementById('global')
+  document.getElementById('root')
 );
